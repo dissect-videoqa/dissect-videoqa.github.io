@@ -1,14 +1,25 @@
 # ConceptFusion
 
-This is the repository that contains source code for the [ConceptFusion website](https://concept-fusion.github.io).
+This is the repository that contains source code for the paper [Dissecting Multimodality in VideoQA Transformer Models by Impairing Modality Fusion](https://dissect-videoqa.github.io).
 
 Should you find our work useful, please cite
 ```
-@article{conceptfusion,
-  author    = {Jatavallabhula, {Krishna Murthy} and Kuwajerwala, Alihusein and Gu, Qiao and Omama, Mohd and Chen, Tao and Li, Shuang and Iyer, Ganesh and Saryazdi, Soroush and Keetha, Nikhil and Tewari, Ayush and Tenenbaum, {Joshua B.} and {de Melo}, {Celso Miguel} and Krishna, Madhava and Paull, Liam and Shkurti, Florian and Torralba, Antonio},
-  title     = {ConceptFusion: Open-set Multimodal 3D Mapping},
-  journal   = {arXiv},
-  year      = {2023},
+@article{rawal2024dissect,
+  author    = {Rawal, {Ishaan Singh} and Matyasko, Alexander and Jaiswal, Shantanu and Fernando, Basura and Tan, Cheston},
+  title     = {{D}issecting {M}ultimodality in {V}ideo{Q}{A} {T}ransformer {M}odels by {I}mpairing {M}odality {F}usion},
+  booktitle   = {International Conference on Machine Learning},
+  year      = {2024},
+  organization  = {PMLR}
+}
+```
+
+An abridged version of our work was presented at NeurIPS 2023 XAI in Action Workshop. It can be found [here](https://openreview.net/forum?id=bhvlGMbONN).
+```
+@inproceedings{rawal2023videoqa,
+  title={Are VideoQA Models Truly Multimodal?},
+  author={Rawal, Ishaan and Jaiswal, Shantanu and Fernando, Basura and Tan, Cheston},
+  booktitle={XAI in Action: Past, Present, and Future Applications},
+  year={2023}
 }
 ```
 
