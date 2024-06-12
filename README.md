@@ -6,7 +6,7 @@ Should you find our work useful, please cite
 ```
 @article{rawal2024dissect,
   author    = {Rawal, {Ishaan Singh} and Matyasko, Alexander and Jaiswal, Shantanu and Fernando, Basura and Tan, Cheston},
-  title     = {{D}issecting {M}ultimodality in {V}ideo{Q}{A} {T}ransformer {M}odels by {I}mpairing {M}odality {F}usion},
+  title     = {{Dissecting Multimodality in VideoQA Transformer Models by Impairing Modality Fusion}},
   booktitle   = {International Conference on Machine Learning},
   year      = {2024},
   organization  = {PMLR}
@@ -16,7 +16,7 @@ Should you find our work useful, please cite
 An abridged version of our work was presented at NeurIPS 2023 XAI in Action Workshop. It can be found [here](https://openreview.net/forum?id=bhvlGMbONN).
 ```
 @inproceedings{rawal2023videoqa,
-  title={Are VideoQA Models Truly Multimodal?},
+  title={{Are VideoQA Models Truly Multimodal?}},
   author={Rawal, Ishaan and Jaiswal, Shantanu and Fernando, Basura and Tan, Cheston},
   booktitle={XAI in Action: Past, Present, and Future Applications},
   year={2023}
